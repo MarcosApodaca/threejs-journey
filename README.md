@@ -1,3 +1,3 @@
 # Three.js Journey
 
-<img src="https://s3-eu-west-1.amazonaws.com/tpd/logos/64d203d2e313ad76ce021e45/0x0.png">
+<img src="https://d1c2gz5q23tkk0.cloudfront.net/assets/communications/399710/cover_pictures/-default.png?1614692202">
